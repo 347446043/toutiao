@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title>springboot</title>
+    </head>
+    <body>
+        <pre>
+            hello wuyi,springboot
+            $!{wi}
+        </pre>
+    </body>
+</html>
